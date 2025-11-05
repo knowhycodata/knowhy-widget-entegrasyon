@@ -2,8 +2,6 @@
 
 Modern, hızlı ve güvenli şekilde Knowhy yapay zeka tabanlı chatbot (EduAsist) bileşenini web sitenize entegre etmeniz için hazırlanan resmi kılavuz.
 
-Bu belge GitHub üzerinde okunabilirlik için optimize edilmiştir. Başlıklar, tablolar ve kod blokları ile adımlar net bir şekilde sunulmuştur.
-
 ---
 
 ## İçindekiler
