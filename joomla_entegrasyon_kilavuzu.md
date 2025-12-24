@@ -6,6 +6,8 @@
 
 Modern, hızlı ve güvenli **Knowhy** yapay zeka tabanlı asistan  bileşenini **Joomla** altyapılı web sitenize entegre etmeniz için hazırlanan resmi kılavuzdur.
 
+Kılavız video Linki: https://youtu.be/8cPizlGfjy0
+
 ---
 
 ## İçindekiler
